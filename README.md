@@ -1,0 +1,1 @@
+This code works on a Raspberry Pi to calculate the distance of objects in a 2cm to 2m range. The closer an object is, the more strong the pulse-width-modulation to the output device (e.g. vibration motor, LED), with the pulses slowing for further objects.
